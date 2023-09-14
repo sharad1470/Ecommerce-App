@@ -1,0 +1,28 @@
+.feature-section{
+    display: flex;
+    justify-content: center;
+    background-color: #F6F8FA;
+}
+.feature-section-main{
+    padding: 10px 0px;
+    width: 80%;
+
+}
+.feature-section-title{
+
+}
+.feature-title1{
+    font-size: 12px;
+    font-weight: 400;
+    color: #5138EE;
+}
+.feature-title2{
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.feature-section-container{
+    padding: 10px 0px;
+    display: flex;
+    justify-content: space-between;
+}

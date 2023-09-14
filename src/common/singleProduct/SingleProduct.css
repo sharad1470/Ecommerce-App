@@ -1,0 +1,49 @@
+.singleproduct{
+    padding-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.single-main{
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    width: 80%;
+}
+.single-cover{
+    height: 450px;
+    flex:1;
+}
+.single-cover img{
+    height: 450px;
+}
+.single-right{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+.single-right-div{
+    display: flex;
+    margin-bottom: 8px;
+    align-items: center;
+}
+.single-right div label{
+    font-size: 20px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    
+}
+.single-right-div div{
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    font-size: 18px;
+    font-weight: 400;
+}
+.single-desc{
+    display: flex;
+    align-items: baseline;
+}

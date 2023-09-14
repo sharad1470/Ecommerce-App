@@ -1,0 +1,14 @@
+.filterproducts{
+    flex: 3;
+    /* background-color:blue; */
+}
+.filterproducts-products{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+}
+.filterproducts-sort{
+    display: flex;
+    justify-content: space-between;
+}

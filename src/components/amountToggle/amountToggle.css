@@ -1,0 +1,15 @@
+.amounttoggle{
+    padding: 5px;
+}
+.amounttoggle-increase{
+    cursor: pointer;
+}
+.amounttoggle-amount{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+.amounttoggle-decrease{
+    cursor: pointer;
+}

@@ -1,0 +1,12 @@
+.addtocart-button{
+    width: 100px;
+    background-color:lightseagreen;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 0px 8px 0px;
+    border-radius: 6px;
+    margin-top: 16px;
+    color: white;
+
+}

@@ -1,0 +1,19 @@
+.filtersection{
+    display: flex;
+    justify-content: center;
+padding-top: 15px;
+}
+.filtersection-main{
+    display: flex;
+    height: 70vh;
+    width: 80%;
+
+}
+.filtersection-main-filters{
+    flex: 1;
+    background-color: red;
+}
+.filtersection-main-products{
+    flex: 2;
+    background-color: yellow;
+}

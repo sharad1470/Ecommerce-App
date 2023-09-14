@@ -1,0 +1,43 @@
+.header{
+    width: 100%;
+    background-color:#F6F8FA;
+
+    height: 6rem;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+.header-main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+}
+.header-left{
+    display: flex;
+    flex: 2;
+}
+.header-logo{
+    height: 60px;
+    width: 250px;
+}
+.header-logo img{
+    height: inherit;
+    width: inherit;
+}
+.header-right{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex: 1;
+    
+}
+.header-right div{
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 500;
+
+}
+.header-right div:hover{
+    color:aquamarine
+}

@@ -1,0 +1,98 @@
+.mycart{
+    /* display: flex;
+    justify-content: center; */
+
+}
+.mycart-main{
+    width: 80%;
+    
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0px auto 0px auto;
+}
+.mycart-title{
+    padding: 10px;
+    font-size: 25px;
+    font-weight: 600;
+    color: blueviolet;
+    
+}
+.mycart-container{
+    width: 100%;
+    padding-top: 15px;
+}
+.mycart-banner{
+    
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.mycart-banner div{
+    width: 150px;
+    display: flex;
+    
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.banner-image{
+    
+    justify-content: flex-start
+}
+.banner-price{
+    justify-content: center
+}
+.banner-amount{
+    justify-content: flex-end;
+}
+.banner-trash{
+    justify-content: flex-end;
+}
+
+.banner-totamount{
+    justify-content: flex-end;
+}
+
+.cart-total{
+    width: 80%;
+    display: flex;
+    margin: 0px auto 0px auto;
+    justify-content: flex-end;
+}
+.cart-total-container{
+
+        padding: 30px;
+        background-color: #FAFAFA;
+}
+.cart-total-subtotal{
+    display: flex;
+    padding: 10px;
+}
+.cart-total-ordertotal{
+    display: flex;
+    padding: 10px;
+}
+.cart-total-shippingfee{
+    display: flex;
+    padding: 10px;
+}
+.cart-total-container label{
+    margin-right: 6px;
+}
+.cart-clear-button-container{
+    display: flex;
+    justify-content: flex-end;
+    width: 80%;
+    margin: 0px auto 0px auto;
+    padding-right: 100px;
+
+}
+.cart-clear-button{
+    text-align: center;
+    padding: 15px;
+    background-color: maroon;
+    color: white;
+    cursor: pointer;
+}

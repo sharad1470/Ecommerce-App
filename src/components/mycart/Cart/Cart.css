@@ -1,0 +1,19 @@
+.cart{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 15px;
+}
+.cart-cover{
+    height: 100px;
+}
+.cart-cover img{
+    height: 100%;
+}
+
+.cart-trash{
+    color: red;
+    cursor: pointer;
+}
+
