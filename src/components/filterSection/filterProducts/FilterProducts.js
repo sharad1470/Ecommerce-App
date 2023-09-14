@@ -25,6 +25,7 @@ const FilterProducts = () => {
                         className="sort-selection--style"
                         onClick={sorting}>
            
+                        
                         <option value="lowest">Price(lowest)</option>
                         <option value="#" disabled></option>
                         <option value="highest">Price(highest)</option>
